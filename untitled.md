@@ -2,7 +2,7 @@
 
 The most comprehensive guide can be found on the official wiki [for Polkadot](https://wiki.polkadot.network/docs/en/maintain-guides-how-to-validate-polkadot) and [for Kusama](https://guide.kusama.network/docs/en/mirror-maintain-guides-how-to-validate-kusama). The setup process is mostly similar, as both are based on the [Substrate Framework](https://substrate.dev/).  
 
-The best way to automate the validator deployment process is through the [polkadot-validator-setup](https://github.com/w3f/polkadot-validator-setup) script provided by W3F. It uses Terraform to provision virtual machines and Ansible to automate deployment. You can watch Parity's Joe Petrowski \(research analyst\) and Will Pankiewicz \(master of validators\) speed-running the validator setup process below. 
+The best way to automate the validator deployment process is through the polkadot-validator-setup script provided by W3F: [https://github.com/w3f/polkadot-validator-setup](https://github.com/w3f/polkadot-validator-setup). It uses Terraform to provision virtual machines and Ansible to automate deployment. You can watch Parity's Joe Petrowski \(research analyst\) and Will Pankiewicz \(master of validators\) speed-running the validator setup process below. 
 
 {% embed url="https://www.youtube.com/watch?v=ejgPSwdLj5o" %}
 
