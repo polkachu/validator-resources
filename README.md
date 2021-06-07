@@ -1,2 +1,2 @@
-# validator-resources
-Resources for Kusama/Polkadot validators
+# Initial page
+
