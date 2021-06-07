@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Readme](README.md)
 * [hello world](hello-world.md)
 
 ## One Thousand Kusama/Polkadot Programs
