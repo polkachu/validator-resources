@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Readme more](README.md)
+* [Readme](README.md)
 
 ## One Thousand Kusama/Polkadot Programs
 
