@@ -2,7 +2,7 @@
 
 * [Readme](README.md)
 
-## One Thousand Kusama/Polkadot Programs
+## Kusama/Polkadot 1K Programs <a id="one-thousand-kusama-polkadot-programs"></a>
 
 * [First page](one-thousand-kusama-polkadot-programs/first-page.md)
 * [Another page](one-thousand-kusama-polkadot-programs/another-page.md)
