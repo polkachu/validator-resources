@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Readme](README.md)
+* [Introduction](README.md)
 
 ## Kusama/Polkadot 1K Programs <a id="one-thousand-kusama-polkadot-programs"></a>
 
