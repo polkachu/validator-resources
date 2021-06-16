@@ -1,7 +1,3 @@
----
-description: hello
----
-
 # Resources and Links
 
 ### Official Resources
