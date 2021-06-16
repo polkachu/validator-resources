@@ -26,15 +26,19 @@
 | Substack | [DotLeap](https://newsletter.dotleap.com/) |
 | Website | [Subscan](https://www.subscan.io/) |
 | Website | [Polkaview](https://polkaview.network/dot/staking) |
+| Website | [Polkashots](https://polkashots.io/) |
 | GitHub | [Staking Payout Script ](https://github.com/canontech/staking-payouts)by canontech |
 | GitHub | [Staking Payout Script](https://github.com/stakelink/substrate-payctl) by stakelink |
 | GitHub | [Validator Ansible Script](https://github.com/polkachu/polkadot-validator) by polkachu |
 | GitHub | [Validator Monitoring Ansible Script](https://github.com/polkachu/server-monitoring) by polkachu |
+| List | [Collection of Validator Resources](https://ccris02.medium.com/polkadot-kusama-validator-resource-database-849b2be76dc5) by ccris02 \(Vegas\_Life\) |
 
 ### Thousand Validators Program Resources
 
 | Type | Description |
 | :--- | :--- |
-| Website | [Kusama Thousand Validators Leaderboard](https://thousand-validators.kusama.network/#/leaderboard) |
+| Website | [Kusama Thousand Validators Official Leaderboard](https://thousand-validators.kusama.network/#/leaderboard) |
+| Website | [Unofficial Leaderboard](https://1k.hirish.net/) by Hirish |
+| Website | [Unofficial Leaderboard](https://www.cryptolab.network/) by CryptoLab |
 | GitHub | [Thousand Validators Program Backend](https://github.com/w3f/1k-validators-be) |
 

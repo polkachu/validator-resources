@@ -18,6 +18,10 @@ The "Para Validator" duty is assigned to a parachain to validator its blocks. It
 
 Both are okay as a validator. An archive node requires much larger storage space, so most validators probably run pruned nodes. 
 
+### How do I quickly sync up my validator with the latest block?
+
+When you start out, it typically takes days to sync up to the latest block for your validator. If you want to quickly sync up, you can use the chain snapshots provided by [https://polkashots.io](https://polkashots.io/). This is for pruned node only. If you prefer to run an archive node, you cannot use the snapshot. 
+
 ### How do I do server maintenance while minimizing downtime?
 
 Your starting point is the [official upgrade guide](https://wiki.polkadot.network/docs/en/maintain-guides-how-to-upgrade). That said, we have found that a short period of downtime is harmless when you are not in the active set. This is much less hassle than the Server A -&gt; Server B -&gt; Server A switch described in the official guide. 
