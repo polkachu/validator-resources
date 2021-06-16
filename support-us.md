@@ -17,7 +17,7 @@ A big shoutout to Paradoxxx, who offers active help to the validator community i
 | Polkadot | PARADOXXX/01 | 14hM4oLJCK6wtS7gNfwTDhthRjy5QJ1t3NAcoPjEepo9AH67 |
 | Polkadot | PARADOXXX/02 | 13wroNHV6aJEkUFJEx4NYv7kv5vgq4HypLAPSz347VVQbYj3 |
 
-Finally, Vegas\_Life\_Main has been constantly providing information / resources / links to make this site better. You can support him by staking KSM/DOT with him. 
+Finally, Vegas\_Life\_Main has been providing resources/links and typically is the first one to review site update. He helps make this site better. You can support him by staking KSM/DOT with him. 
 
 | Network | Validator Name | Validator Key |
 | :--- | :--- | :--- |
