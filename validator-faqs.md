@@ -54,9 +54,47 @@ There is no one-size-fit-all strategy. That said, we have observed three common 
 
 ### What is Web3's algorithm to nominate validators?
 
-You can find Web3's nomination algorithm here 
+You can find Web3's nomination algorithm [here](https://github.com/w3f/1k-validators-be). Here is a quick code snippet where the weight of each factor is documented.  You can see where you stand in terms of these factors in the [Kusama program leaderboard](https://thousand-validators.kusama.network/#/leaderboard). Basically, you will have a higher chance of being nominated by Web3 if:
 
-What the heck is 
+1. You joined the program earlier
+2. You have not been nominated in a while
+3. You are not offline recently
+4. Your rank is higher
+5. You have not committed faults
+6. Your self-bond is higher
+7. You pay out rewards in a timely fashion
+
+```text
+  // Weighted scores
+  // Discovered at - earlier is preferrable
+  // Nominated At - Not nominated in a while is preferrable
+  // offlineAccumulated - lower if prefferable
+  // rank - higher is preferrable
+  // faults - lower is preferrable
+  // unclaimed eras - lower is preferrable
+  // inclusion - lower is preferrable
+  // bonded - higher is preferrable
+  
+  INCLUSION_WEIGHT = 5;
+  SPAN_INCLUSION_WEIGHT = 40;
+  DISCOVERED_WEIGHT = 5;
+  NOMINATED_WEIGHT = 35;
+  RANK_WEIGHT = 5;
+  UNCLAIMED_WEIGHT = 15;
+  BONDED_WEIGHT = 13;
+  FAULTS_WEIGHT = 5;
+  OFFLINE_WEIGHT = 2;
+```
+
+### What is "Rank" in the Thousand Validators Program?
+
+Rank is a representation of status and success in the program. Rank points are increased by 1 for every 24 hours the validator has successfully been validating in the active validator set. Ranks Points are halved when validators are offline. Rank Points are not relative to others, and the higher the better. 
+
+You need a rank of 25 or above in the Kusama program in order to be eligible for the Polkadot program.
+
+### What if I forget to claim the rewards?
+
+Not possible. You can claim your rewards for you and your nominators within 20 eras. After this, they will be claimed for you by Web3, and your negligence will decrease your rank by 3 points. So the bottom line is to claim the rewards in a timely fashion. 
 
 ## Kusama Thousand Validators Program FAQs
 
