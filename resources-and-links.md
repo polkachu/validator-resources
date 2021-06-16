@@ -31,9 +31,10 @@
 | GitHub | [Validator Ansible Script](https://github.com/polkachu/polkadot-validator) by polkachu |
 | GitHub | [Validator Monitoring Ansible Script](https://github.com/polkachu/server-monitoring) by polkachu |
 
-### Thousand Validators Program Resource
+### Thousand Validators Program Resources
 
-| Type |  |
+| Type | Description |
 | :--- | :--- |
-
+| Website | [Kusama Thousand Validators Leaderboard](https://thousand-validators.kusama.network/#/leaderboard) |
+| GitHub | [Thousand Validators Program Backend](https://github.com/w3f/1k-validators-be) |
 
