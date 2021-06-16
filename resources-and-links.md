@@ -9,6 +9,7 @@
 | YouTube | [Web3 Channel](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
 | YouTube | [Parity Channel](https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg) |
 | GitHub | [Parity GitHub Repos](https://github.com/paritytech) |
+| GitHub | [Official Secure Validator Setup Script](https://github.com/w3f/polkadot-validator-setup) |
 | Wiki | [Polkadot Wiki](https://wiki.polkadot.network/docs/en/getting-started) |
 | Wiki | [Kusama Wiki](https://guide.kusama.network/docs/en/kusama-index) |
 | Blog | [Polkadot Blog](https://polkadot.network/blog/) |
@@ -23,23 +24,16 @@
 | :--- | :--- |
 | YouTube | [Paradoxxx's Channel](https://www.youtube.com/channel/UCaL8-V37qcHeaVYtlOAdgAA) |
 | Substack | [DotLeap](https://newsletter.dotleap.com/) |
+| Website | [Subscan](https://www.subscan.io/) |
+| Website | [Polkaview](https://polkaview.network/dot/staking) |
+| GitHub | [Staking Payout Script ](https://github.com/canontech/staking-payouts)by canontech |
+| GitHub | [Staking Payout Script](https://github.com/stakelink/substrate-payctl) by stakelink |
+| GitHub | [Validator Ansible Script](https://github.com/polkachu/polkadot-validator) by polkachu |
+| GitHub | [Validator Monitoring Ansible Script](https://github.com/polkachu/server-monitoring) by polkachu |
 
-### Thousand Validators Program Resources
+### Thousand Validators Program Resource
 
-| Type | Description |
+| Type |  |
 | :--- | :--- |
-| Website | [Kusama Thousand Validators Leaderboard](https://thousand-validators.kusama.network/#/leaderboard) |
-| GitHub | [Thousand Validators Program backend](https://github.com/w3f/1k-validators-be) |
-
-### Useful Links
-
-| Type | Description |
-| :--- | :--- |
-| GitHub | [Official Secure Validator Setup Script](https://github.com/w3f/polkadot-validator-setup) |
-| GitHub | [Polkachu's Validator Ansible Script](https://github.com/polkachu/polkadot-validator) |
-| GitHub | [Polkachu's Validator Monitoring Ansible Script](https://github.com/polkachu/server-monitoring) |
-
-
-
 
 

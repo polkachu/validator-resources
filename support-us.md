@@ -21,8 +21,8 @@ Finally, Vegas\_Life\_Main has been constantly providing information / resources
 
 | Network | Validator Name | Validator Key |
 | :--- | :--- | :--- |
-| Kusama | VEGAS\_LIFE\_MAIN /KSM | Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf |
-| Polkadot | VEGAS\_LIFE\_MAIN /1 | 1GqH2Y9UVqp6BNCbT7v5ucgksvFvDCPiBdFEa7vtAxVo1Pb |
+| Kusama | VEGAS\_LIFE\_MAIN/KSM | Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf |
+| Polkadot | VEGAS\_LIFE/1 | 1GqH2Y9UVqp6BNCbT7v5ucgksvFvDCPiBdFEa7vtAxVo1Pb |
 
 
 
