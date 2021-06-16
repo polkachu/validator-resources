@@ -24,7 +24,20 @@
 | YouTube | [Paradoxxx's Channel](https://www.youtube.com/channel/UCaL8-V37qcHeaVYtlOAdgAA) |
 | Substack | [DotLeap](https://newsletter.dotleap.com/) |
 
+### Thousand Validators Program Resources
 
+| Type | Description |
+| :--- | :--- |
+| Website | [Kusama Thousand Validators Leaderboard](https://thousand-validators.kusama.network/#/leaderboard) |
+| GitHub | [Thousand Validators Program backend](https://github.com/w3f/1k-validators-be) |
+
+### Useful Links
+
+| Type | Description |
+| :--- | :--- |
+| GitHub | [Official Secure Validator Setup Script](https://github.com/w3f/polkadot-validator-setup) |
+| GitHub | [Polkachu's Validator Ansible Script](https://github.com/polkachu/polkadot-validator) |
+| GitHub | [Polkachu's Validator Monitoring Ansible Script](https://github.com/polkachu/server-monitoring) |
 
 
 
