@@ -104,15 +104,7 @@ Not possible. You can claim your rewards for you and your nominators within 20 e
 
 ### How often will I be nominated by Web3?
 
-You will be nominated roughly 1 day of every week or so when you start. Your chance of being nominated will increase as you maintain a well-behaved validator node. It is your responsibility to attract external nominators so you can eventually get into the active set without the help of Web3.   
-
-### 
-
-
-
-## 
-
-## 
+You will be nominated roughly 1 day of every week or so when you start. Your chance of being nominated will increase as you maintain a well-behaved validator node. It is your responsibility to attract external nominators so you can eventually get into the active set without the help of Web3.
 
 
 
