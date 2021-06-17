@@ -39,6 +39,6 @@
 | :--- | :--- |
 | Website | [Kusama Thousand Validators Official Leaderboard](https://thousand-validators.kusama.network/#/leaderboard) |
 | Website | [Unofficial Leaderboard](https://1k.hirish.net/) by Hirish |
-| Website | [Unofficial Leaderboard](https://www.cryptolab.network/) by CryptoLab |
+| Website | [Unofficial Leaderboard](https://www.cryptolab.network/tools/oneKValidators) by CryptoLab |
 | GitHub | [Thousand Validators Program Backend](https://github.com/w3f/1k-validators-be) |
 
