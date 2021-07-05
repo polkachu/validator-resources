@@ -8,7 +8,7 @@ The best way to automate the validator deployment process is through the polkado
 
 Of course, you do not need to adopt the full script to make your life easy as a validator. For example, you can just adopt the Ansible script while still manually provisioning machines on AWS, GCP or Digital Ocean without Terraform, especially when you do not have an army of validator servers. 
 
-If you are more of a visual learner, you should check out a comprehensive 3-part YouTube series on validator setup by Paradoxxx, who is an active community member in various support channels. 
+If you are more of a visual learner, you should check out a comprehensive 3-part YouTube series on validator setup by Paradox, who is an active community member in various support channels. 
 
 {% embed url="https://www.youtube.com/watch?v=maJdf-hfGac&t=23s" %}
 
