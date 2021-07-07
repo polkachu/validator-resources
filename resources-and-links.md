@@ -22,7 +22,7 @@
 
 | Type | Description |
 | :--- | :--- |
-| YouTube | [Paradoxxx's Channel](https://www.youtube.com/channel/UCaL8-V37qcHeaVYtlOAdgAA) |
+| YouTube | [Paradox's Channel](https://www.youtube.com/channel/UCaL8-V37qcHeaVYtlOAdgAA) |
 | Substack | [DotLeap](https://newsletter.dotleap.com/) |
 | Website | [Subscan](https://www.subscan.io/) |
 | Website | [Polkaview](https://polkaview.network/dot/staking) |
