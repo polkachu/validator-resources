@@ -2,13 +2,13 @@
 
 ## General Validator FAQs
 
-### What are the Thousand Validators Programs and shall I apply?
+### What are the Thousand Validators Programme and shall I apply?
 
 See the [official link](https://wiki.polkadot.network/docs/en/thousand-validators). 
 
 ### What is the minimum amount of KSM/DOT to become a validator?
 
-You can become a "waiting" validator with any amount of KSM/DOT. The challenge is to get into the active set. You can consider to join the Thousand Validators Programs to get a smooth start. 
+You can become a "waiting" validator with as little as 1 DOT and 0.002 KSM. The challenge is to get into the active set. You can consider joining the Thousand Validators Programme to get a smooth start. 
 
 ### I see some validators with a "Para Validator" icon in front of them. What are those and do I need to perform special actions to get it?
 
@@ -20,7 +20,7 @@ Both are okay as a validator. An archive node requires much larger storage space
 
 ### How do I quickly sync up my validator with the latest block?
 
-When you start out, it typically takes days to sync up to the latest block for your validator. If you want to quickly sync up, you can use the chain snapshots provided by [https://polkashots.io](https://polkashots.io/). This is for pruned node only. If you prefer to run an archive node, you cannot use the snapshot. 
+When you start out, it typically takes days to sync up to the latest block for your validator. If you want to quickly sync up, you can use the chain snapshots provided by [https://polkashots.io](https://polkashots.io/). This is for pruned nodes only. If you prefer to run an archive node, you cannot use the snapshot. 
 
 ### How do I do server maintenance while minimizing downtime?
 
@@ -34,39 +34,39 @@ In this [Medium post](https://mswezey.medium.com/kusama-validator-node-setup-643
 
 ### NVMe or SSD: what storage type should I choose? 
 
-Validator node is quite heavy in disk writing. NVMe is a new generation of storage that offers better speed in disk reading/writing. I \(the site editor\) did an experiment on Digital Ocean with two machines with the same specs except storage type \(NVMe vs SSD\). In a very limited sample size of one experiment, NVMe outperforms SSD by about 20% in CPU efficiency. Interestingly, NVMe droplet is about 20% more expensive than SSD droplet, everything else equal. 
+The validator node is quite heavy in disk writing. NVMe is a new generation of storage that offers better speed in disk reading/writing. I \(the site editor\) did an experiment on Digital Ocean with two machines with the same specs except storage type \(NVMe vs SSD\). In a very limited sample size of one experiment, NVMe outperforms SSD by about 20% in CPU efficiency. Interestingly, NVMe droplet is about 20% more expensive than SSD droplet, everything else equal. 
 
-## General Thousand Validators Program FAQs
+## General Thousand Validators Programme FAQs
 
 ### What should I expect after submitting my application?
 
-Applications are accepted on the rolling basis. As long as you fulfill all requirements detailed in the [official program guide](https://wiki.polkadot.network/docs/en/thousand-validators), your validator will automatically be included in the program in the next admission cycle. 
+Applications are accepted on a rolling basis. As long as you fulfill all requirements detailed in the [official program guide](https://wiki.polkadot.network/docs/en/thousand-validators), your validator will automatically be included in the programme in the next admission cycle. 
 
-### Can I add a second validator in the 1K Program?
+### Can I add a second validator in the 1K Programme?
 
 Yes for Kusama, and no for Polkadot. For Kusama, when you add a second validator, you need a separate set of controller account and stash account, thus a new set of minimum KSM deposit. 
 
 Your chance of being nominated by Web3 is independent between your two nodes. 
 
-### What are good commission strategies to get the most out of the program?
+### What are good commission strategies to get the most out of the programme?
 
-There is no one-size-fit-all strategy. That said, we have observed three common strategies attempted by various validators:
+There is no one-size-fits-all strategy. That said, we have observed three common strategies attempted by various validators:
 
 1. **Lowest Commission in Town**: These validators give up short-term gains by setting 0% commission. They believe that they can get external nominators quickly so they can fly solo without the help of Web3 ASAP.
-2. **Maximum Commission Allowed**: These validators set the maximum commission allowed while participating in the program: 10% for Kusama and 3% for Polkadot. Running a good validator node is a noteworthy commitment, and they want to be rewarded for it. 
-3. **Breakeven with Staking**: These validators calculates a breakeven commission rate as if they are staking their bonded KSM/DOT, plus the cost/effort of running a validator server. These validators probably come out with slightly different numbers depending on assumptions, but we believe that the breakeven commission rate is about 6-7% for Kusama and 1-2% for Polkadot when the validator is in the active set once a week. 
+2. **Maximum Commission Allowed**: These validators set the maximum commission allowed while participating in the programme: 10% for Kusama and 3% for Polkadot. Running a good validator node is a noteworthy commitment, and they want to be rewarded for it. 
+3. **Breakeven with Staking**: These validators calculate a breakeven commission rate as if they are staking their bonded KSM/DOT, plus the cost/effort of running a validator server. These validators probably come out with slightly different numbers depending on assumptions, but we believe that the breakeven commission rate is about 6-7% for Kusama and 1-2% for Polkadot when the validator is in the active set once a week. 
 
 ### What is Web3's algorithm to nominate validators?
 
 You can find Web3's nomination algorithm [here](https://github.com/w3f/1k-validators-be). Here is a quick code snippet where the weight of each factor is documented.  You can see where you stand in terms of these factors in the [Kusama program leaderboard](https://thousand-validators.kusama.network/#/leaderboard). Basically, you will have a higher chance of being nominated by Web3 if:
 
-1. You joined the program earlier
+1. You joined the programme earlier
 2. You have not been nominated in a while
 3. You are not offline recently
 4. Your rank is higher
 5. You have not committed faults
 6. Your self-bond is higher
-7. You pay out rewards in a timely fashion
+7. You payout rewards in a timely fashion
 
 ```text
   // Weighted scores
@@ -90,17 +90,17 @@ You can find Web3's nomination algorithm [here](https://github.com/w3f/1k-valida
   OFFLINE_WEIGHT = 2;
 ```
 
-### What is "Rank" in the Thousand Validators Program?
+### What is "Rank" in the Thousand Validators Programme?
 
-Rank is a representation of status and success in the program. Rank points are increased by 1 for every 24 hours the validator has successfully been validating in the active validator set. Ranks Points are halved when validators are offline. Rank Points are not relative to others, and the higher the better. 
+Rank is a representation of status and success in the programme. Rank points are increased by 1 for every 24 hours the validator has successfully been validating in the active validator set. Ranks Points are halved when validators are offline. Rank Points are not relative to others, and the higher the better. 
 
-You need a rank of 25 or above in the Kusama program in order to be eligible for the Polkadot program.
+You need a rank of 25 or above in the Kusama programme in order to be eligible for the Polkadot programme.
 
 ### What if I forget to claim the rewards?
 
 Not possible. You can claim your rewards for you and your nominators within 20 eras. After this, they will be claimed for you by Web3, and your negligence will decrease your rank by 3 points. So the bottom line is to claim the rewards in a timely fashion. 
 
-## Kusama Thousand Validators Program FAQs
+## Kusama Thousand Validators Programme FAQs
 
 ### How often will I be nominated by Web3?
 
