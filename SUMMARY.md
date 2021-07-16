@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Validator Setup](untitled.md)
+* [Validator Setup](validator-setup.md)
 * [Validator Monitoring](validator-monitoring.md)
 * [Validator FAQs](validator-faqs.md)
 * [Resources and Links](resources-and-links.md)
