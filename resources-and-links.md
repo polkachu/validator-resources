@@ -33,9 +33,10 @@
 | Github | [Staking Payout Script](https://github.com/Colm3na/substrate-auto-payout) by colm3na \(Nodejs\) |
 | GitHub | [Validator Ansible Script](https://github.com/polkachu/polkadot-validator) by polkachu |
 | GitHub | [Validator Monitoring Ansible Script](https://github.com/polkachu/server-monitoring) by polkachu |
+| Github | [Shell Script to Update Polkadot Binary](https://gist.github.com/michalisFr/daa01c7374793a684a3a1f61e4959492) by michalisFr |
 | List | [Collection of Validator Resources](https://ccris02.medium.com/polkadot-kusama-validator-resource-database-849b2be76dc5) by ccris02 \(Vegas\_Life\) |
 
-## Thousand Validators Program Resources
+Thousand Validators Program Resources
 
 | Type | Description |
 | :--- | :--- |
