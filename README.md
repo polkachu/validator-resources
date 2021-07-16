@@ -12,7 +12,12 @@ This site will try to differentiate itself from the official guide in the follow
 2. It is not a comprehensive guide. Rather, it intends to surface the most frequently requested content and most frequently asked questions that I have observed in the chatrooms. 
 3. It cover some corner cases that might not be of interest to the general validator population \(thus not included in the official wiki\) but of interest to those more technically inclined. 
 
+### Tips Accepted
 
+| Network | Address |
+| :--- | :--- |
+| DOT | 15ym3MDSG4WPABNoEtx2rAzBB1EYWJDWbWYpNg1BwuWRAQcY |
+| KSM | CsKvJ4fdesaRALc5swo5iknFDpop7YUwKPJHdmUvBsUcMGb |
 
 
 
