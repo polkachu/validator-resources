@@ -23,6 +23,8 @@
 | Type | Description |
 | :--- | :--- |
 | YouTube | [Paradox's Channel](https://www.youtube.com/channel/UCaL8-V37qcHeaVYtlOAdgAA) |
+| YouTube | [Alice und Bob's Channel](https://www.youtube.com/channel/UC0alQ35JKnMo_ctzYITthbw) |
+| YouTube | [Jay Chrawnna's Channel](https://www.youtube.com/channel/UCqNw3CEyOD-bjjYYaxVyG3Q) |
 | Substack | [DotLeap](https://newsletter.dotleap.com/) |
 | Website | [Subscan](https://www.subscan.io/) |
 | Website | [Polkaview](https://polkaview.network/dot/staking) |
