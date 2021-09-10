@@ -37,6 +37,7 @@
 | GitHub | [Validator Monitoring Ansible Script](https://github.com/polkachu/server-monitoring) by polkachu |
 | Github | [Shell Script to Update Polkadot Binary](https://gist.github.com/michalisFr/daa01c7374793a684a3a1f61e4959492) by michalisFr |
 | List | [Collection of Validator Resources](https://ccris02.medium.com/polkadot-kusama-validator-resource-database-849b2be76dc5) by ccris02 \(Vegas\_Life\) |
+| Blog Post | [Kusama Validator Node Setup](https://mswezey.medium.com/kusama-validator-node-setup-643190a8ac7e) by Matt Swezey |
 
 Thousand Validators Program Resources
 
